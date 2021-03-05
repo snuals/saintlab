@@ -1,3 +1,4 @@
+# About 
 ## Welcome to the SNU Clinical and Research laboratory for ALS/MND and Cell Therapy
 
 The SNUH Clinical and Research laboratory for ALS/MND and Cell Therapy (a.k.a. SNU ALS/MND lab) is a laboratory established to identify the pathogenic mechanisms of intractable diseases as well as various neurodegenerative diseases including amyotrophic lateral sclerosis, and to develop a treatment and thus help patients suffering from rare and intractable diseases.
@@ -15,7 +16,20 @@ Afterwards, Professor Yoon-Ho Hong has joined and been leading the qualitative g
 
 Our lab has successfully performed various national study projects for the past several years, and is annually publishing many articles in SCI-level journals. Other than that, collaborator studies with various domestic and international institutions have been performed. Moreover, efforts to learn and share advanced knowledge have been made by attending annual international conference and holding symposium.
 
-## Publications
+# People
+## Faculty
+
+![Faculty](/images/faculty.jpg)
+
+## Trainee & Staff 
+![Trainee and Staff](/images/trainees.jpg)
+
+## Alumni 
+![Alumni](/images/alumni.jpg) 
+
+# Research 
+
+# Publications
 
 2017
 
@@ -273,15 +287,6 @@ Kim SM, Go MJ, Sung JJ, Park KS, Lee KW. Painful tonic spasm in neuromyelitis
 optica: incidence, diagnostic utility, and clinical characteristics. Arch Neurol.
 2012 Aug;69(8):1026-31. doi: 10.1001/archneurol.2012.112. PubMed PMID: 22473770.
 
-## Faculty
-
-![Faculty](/images/faculty.jpg)
-
-## Trainee & Staff 
-![Trainee and Staff](/images/trainees.jpg)
-
-## Alumni 
-![Alumni](/images/alumni.jpg) 
 
 
 
