@@ -2,11 +2,14 @@
 
 The SNUH Clinical and Research laboratory for ALS/MND and Cell Therapy (a.k.a. SNU ALS/MND lab) is a laboratory established to identify the pathogenic mechanisms of intractable diseases as well as various neurodegenerative diseases including amyotrophic lateral sclerosis, and to develop a treatment and thus help patients suffering from rare and intractable diseases.
 
+![Saint Lab](/images/saintlab.jpg)
+
+
  Our lab is studying using up-to-date knowledge on molecular biology and immunology & genetics for the diagnosis of neuromuscular diseases including ALS, the identification of pathogenic mechanisms and the development of treatment. The disease being studied with most priority is ALS, and the current study fields include the development of biomarkers for the diagnosis of hereditary & sporadic ALS and serial observation, and the development of ALS treatment through a study about the pathogenic mechanism of the disease and a study about autophagy as well as cell fusion. Other than that, various clinical studies are being conducted.
 
  Professor Kwang-Woo Lee, an emeritus professor of department of neurology of school of medicine at Seoul National University (SNU), who was a successive chief director of Korean Neurological Association before, has founded ALS/MND lab and laid its foundation, and currently professor Jung-Joon Sung, who is a successive professor of department of neurology of school of medicine at SNU, specialized in motor neuron disease and has completed a long-term training at Burnham Center for Neuroscience, Aging, and Stem Cell Research in the Burnham Institute for Medical Research, U.S.A., is holding office as a lab director. As Pf. Sung’s lead of the lab, the current basic science/clinical study system of ALS/MND lab has been established and the scale of lab has been enlarged by recruiting various researchers with doctoral and master’s degrees. 
 
-![Professor Lee, Kwang Woo](/img/leekwangwoo.jpg)
+![Professor Lee, Kwang Woo](/images/leekwangwoo.jpg)
 
 Afterwards, Professor Yoon-Ho Hong has joined and been leading the qualitative growth of the lab by playing a number of substantial roles in basic science and clinical studies, and performed a clinical study about myasthenia gravis and peripheral neuropathy. Particularly, he has been leading the study related to omics & RNA analysis since he has returned from the training at Harvard Medical School Boston Children’s Hospital. Afterwards, professor Sung-Min Kim, studying about demyelinating diseases, joined the lab and is studying about the associated diseases such as multiple sclerosis and neuromyelitis optica. Professor Je-Young Shin, who has recently completed the training about myopathy at the national center for neurology and psychiatry in Japan and newly joined and performed a study about muscular dystrophy, now ALS/MND lab became a prominent comprehensive lab studying about neuromuscular diseases, performing studies about all neuromuscular diseases including motor neuron disease, peripheral nerve disease, myasthenia gravis, demyelinating disease, and muscle disease. 
 

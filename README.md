@@ -1,2 +1,2 @@
-# saintlab
-website for the saint lab
+# Saintlab
+Website for the Saint Lab
