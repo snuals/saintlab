@@ -1,4 +1,4 @@
-## Welcome to the SNU Clinical and Research laboratory for ALS/MND and Cell Therapy
+## Welcome
 
 The SNUH Clinical and Research laboratory for ALS/MND and Cell Therapy (a.k.a. SNU ALS/MND lab) is a laboratory established to identify the pathogenic mechanisms of intractable diseases as well as various neurodegenerative diseases including amyotrophic lateral sclerosis, and to develop a treatment and thus help patients suffering from rare and intractable diseases.
 
