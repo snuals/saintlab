@@ -16,16 +16,12 @@ Afterwards, Professor Yoon-Ho Hong has joined and been leading the qualitative g
 
 Our lab has successfully performed various national study projects for the past several years, and is annually publishing many articles in SCI-level journals. Other than that, collaborator studies with various domestic and international institutions have been performed. Moreover, efforts to learn and share advanced knowledge have been made by attending annual international conference and holding symposium.
 
-# People
-## Faculty
-
-![Faculty](/images/faculty.jpg)
+# People  
+## Faculty  
 
 ## Trainee & Staff 
-![Trainee and Staff](/images/trainees.jpg)
 
 ## Alumni 
-![Alumni](/images/alumni.jpg) 
 
 # Research 
 
@@ -33,49 +29,24 @@ Our lab has successfully performed various national study projects for the past 
 
 2017
 
-Choi SJ, Hong YH, Shin JY, Yoon BN, Sohn SY, Park CS, Sung JJ. Takotsubo
-cardiomyopathy in amyotrophic lateral sclerosis. Journal of the neurological
-sciences. 2017; 375:289-293. PubMed [journal] PMID: 28320151
+Choi SJ, Hong YH, Shin JY, Yoon BN, Sohn SY, Park CS, Sung JJ. Takotsubo cardiomyopathy in amyotrophic lateral sclerosis. Journal of the neurological sciences. 2017; 375:289-293. PubMed [journal] PMID: 28320151
 
-Kim JE, Hong YH, Kim JY, Jeon GS, Jung JH, Yoon BN, Son SY, Lee KW, Kim JI,
-Sung JJ. Altered nucleocytoplasmic proteome and transcriptome distributions in an
-in vitro model of amyotrophic lateral sclerosis. PLoS One. 2017 Apr
-28;12(4):e0176462. doi: 10.1371/journal.pone.0176462. eCollection 2017. PubMed
-PMID: 28453527; PubMed Central PMCID: PMC5409181.
+Kim JE, Hong YH, Kim JY, Jeon GS, Jung JH, Yoon BN, Son SY, Lee KW, Kim JI, Sung JJ. Altered nucleocytoplasmic proteome and transcriptome distributions in an
+in vitro model of amyotrophic lateral sclerosis. PLoS One. 2017 Apr 28;12(4):e0176462. doi: 10.1371/journal.pone.0176462. eCollection 2017. PubMed PMID: 28453527; PubMed Central PMCID: PMC5409181.
 
-Kim SM, Noh MY, Kim H, Cheon SY, Lee KM, Lee J, Cha E, Park KS, Lee KW, Sung
-JJ, Kim SH. 25-Hydroxycholesterol is involved in the pathogenesis of amyotrophic
-lateral sclerosis. Oncotarget. 2017 Feb 14;8(7):11855-11867. doi:
-10.18632/oncotarget.14416. PubMed PMID: 28060747; PubMed Central PMCID:
-PMC5355309.
+Kim SM, Noh MY, Kim H, Cheon SY, Lee KM, Lee J, Cha E, Park KS, Lee KW, Sung JJ, Kim SH. 25-Hydroxycholesterol is involved in the pathogenesis of amyotrophic lateral sclerosis. Oncotarget. 2017 Feb 14;8(7):11855-11867. doi:10.18632/oncotarget.14416. PubMed PMID: 28060747; PubMed Central PMCID:PMC5355309.
 
-Kim SM, Waters P, Woodhall M, Kim YJ, Kim JA, Cheon SY, Lee S, Jo SR, Kim DG,
-Jung KC, Lee KW, Sung JJ, Park KS. Gender effect on neuromyelitis optica spectrum
-disorder with aquaporin4-immunoglobulin G. Mult Scler. 2017 Jul;23(8):1104-1111.
-doi: 10.1177/1352458516674366. Epub 2016 Oct 19. PubMed PMID: 27760862.
+Kim SM, Waters P, Woodhall M, Kim YJ, Kim JA, Cheon SY, Lee S, Jo SR, Kim DG, Jung KC, Lee KW, Sung JJ, Park KS. Gender effect on neuromyelitis optica spectrum disorder with aquaporin4-immunoglobulin G. Mult Scler. 2017 Jul;23(8):1104-1111. doi: 10.1177/1352458516674366. Epub 2016 Oct 19. PubMed PMID: 27760862.
 
 2016
 
-Kim MJ, Bae JH, Kim JM, Kim HR, Yoon BN, Sung JJ, Ahn SW. Rapid Progression of
-Sporadic ALS in a Patient Carrying SOD1 p.Gly13Arg Mutation. Exp Neurobiol. 2016
-Dec;25(6):347-350. doi: 10.5607/en.2016.25.6.347. Epub 2016 Dec 15. PubMed PMID:
-28035186; PubMed Central PMCID: PMC5195821.
+Kim MJ, Bae JH, Kim JM, Kim HR, Yoon BN, Sung JJ, Ahn SW. Rapid Progression of Sporadic ALS in a Patient Carrying SOD1 p.Gly13Arg Mutation. Exp Neurobiol. 2016 Dec;25(6):347-350. doi: 10.5607/en.2016.25.6.347. Epub 2016 Dec 15. PubMed PMID:28035186; PubMed Central PMCID: PMC5195821.
 
-Lee M, Ban JJ, Kim KY, Jeon GS, Im W, Sung JJ, Kim M. Adipose-derived stem
-cell exosomes alleviate pathology of amyotrophic lateral sclerosis in vitro.
-Biochem Biophys Res Commun. 2016 Oct 21;479(3):434-439. doi:
-10.1016/j.bbrc.2016.09.069. Epub 2016 Sep 15. PubMed PMID: 27641665.
+Lee M, Ban JJ, Kim KY, Jeon GS, Im W, Sung JJ, Kim M. Adipose-derived stem cell exosomes alleviate pathology of amyotrophic lateral sclerosis in vitro. Biochem Biophys Res Commun. 2016 Oct 21;479(3):434-439. doi:10.1016/j.bbrc.2016.09.069. Epub 2016 Sep 15. PubMed PMID: 27641665.
 
-Park KH, Kim RB, Yang J, Oh JH, Park SY, Kim DG, Shin JY, Sung JJ. Reference
-Range of Respiratory Muscle Strength and Its Clinical Application in Amyotrophic
-Lateral Sclerosis: A Single-Center Study. J Clin Neurol. 2016 Jul;12(3):361-7.
-doi: 10.3988/jcn.2016.12.3.361. PubMed PMID: 27449914; PubMed Central PMCID:
-PMC4960222.
+Park KH, Kim RB, Yang J, Oh JH, Park SY, Kim DG, Shin JY, Sung JJ. Reference Range of Respiratory Muscle Strength and Its Clinical Application in Amyotrophic Lateral Sclerosis: A Single-Center Study. J Clin Neurol. 2016 Jul;12(3):361-7. doi: 10.3988/jcn.2016.12.3.361. PubMed PMID: 27449914; PubMed Central PMCID:PMC4960222.
 
-Yoon BN, Ha CK, Lee KW, Park SH, Sung JJ. A confusing case of multiple
-sclerosis and central nervous system graft versus host disease. Korean J Intern
-Med. 2016 Sep;31(5):995-8. doi: 10.3904/kjim.2015.065. Epub 2016 Feb 3. PubMed
-PMID: 26842106; PubMed Central PMCID: PMC5016275.
+Yoon BN, Ha CK, Lee KW, Park SH, Sung JJ. A confusing case of multiple sclerosis and central nervous system graft versus host disease. Korean J Intern Med. 2016 Sep;31(5):995-8. doi: 10.3904/kjim.2015.065. Epub 2016 Feb 3. PubMed PMID: 26842106; PubMed Central PMCID: PMC5016275.
 
 Park KH, Kang DW, Lee KW, Sung JJ. Atypical initial manifestation of
 facioscapulohumeral muscular dystrophy mimicking neuralgic amyotrophy. Neurol
@@ -145,9 +116,7 @@ Presenting with Bilateral Brachial Plexopathy. Journal of clinical neurology
 (Seoul, Korea). 2015; 11(4):400-1. PubMed [journal] PMID: 26256662, PMCID:
 PMC4596103
 
-Kim JK, Oh SY, Sohn EH, Hong YH, Jun SM, Bae JS. When is facial diplegia regarded
-as a variant of Guillain-Barré syndrome? Journal of the peripheral nervous system
-: JPNS. 2015; 20(1):32-6. PubMed [journal] PMID: 25975218
+Kim JK, Oh SY, Sohn EH, Hong YH, Jun SM, Bae JS. When is facial diplegia regarded as a variant of Guillain-Barré syndrome? Journal of the peripheral nervous system 2015; 20(1):32-6. PubMed [journal] PMID: 25975218
 
 Kim JE, Hong YH, Lee JH, Ahn SW, Kim SM, Park KS, Sung JJ, Lee KW, Seong SY.
 Pattern difference of dissociated hand muscle atrophy in amyotrophic lateral
