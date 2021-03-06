@@ -5,7 +5,6 @@ The SNUH Clinical and Research laboratory for ALS/MND and Cell Therapy (a.k.a. S
 
 ![Saint Lab](/images/saintlab.jpg)
 
-
  Our lab is studying using up-to-date knowledge on molecular biology and immunology & genetics for the diagnosis of neuromuscular diseases including ALS, the identification of pathogenic mechanisms and the development of treatment. The disease being studied with most priority is ALS, and the current study fields include the development of biomarkers for the diagnosis of hereditary & sporadic ALS and serial observation, and the development of ALS treatment through a study about the pathogenic mechanism of the disease and a study about autophagy as well as cell fusion. Other than that, various clinical studies are being conducted.
 
  Professor Kwang-Woo Lee, an emeritus professor of department of neurology of school of medicine at Seoul National University (SNU), who was a successive chief director of Korean Neurological Association before, has founded ALS/MND lab and laid its foundation, and currently professor Jung-Joon Sung, who is a successive professor of department of neurology of school of medicine at SNU, specialized in motor neuron disease and has completed a long-term training at Burnham Center for Neuroscience, Aging, and Stem Cell Research in the Burnham Institute for Medical Research, U.S.A., is holding office as a lab director. As Pf. Sung’s lead of the lab, the current basic science/clinical study system of ALS/MND lab has been established and the scale of lab has been enlarged by recruiting various researchers with doctoral and master’s degrees. 
@@ -18,11 +17,41 @@ Our lab has successfully performed various national study projects for the past 
 
 # People  
 ## Faculty  
+
 ![성정준](/images/성정준.jpg)
+
+Sung, Jung-Joon   
+Hong, Yoon-Ho   
+Kim, Sung-Min  
+Shin, Je-Young   
 
 ## Trainee & Staff 
 
+Kim, Yu-Ri   
+Kim, Bo-Jung   
+Ahn, So-Yeon  
+Im, Sun-Young   
+
 ## Alumni 
+
+Ahn, Suk-Won   
+Kim, Ji Eun  
+Yoon, Byung-Nam   
+Oh, Jung-Hwan   
+Park, Su-Yeon   
+Yang, Ji Won   
+Kim, Dong-Gun   
+Sohn, Sung Yeon   
+Park, Ki-Hong    
+Kim, Ji Sun   
+Kim, Bong-Jae   
+Paek, Seol-Hee   
+Kim, Joon-Soon   
+Choi, Gyo-Min   
+Lee, Hee-Woo   
+Lee, Seong-Woong   
+Sim, Yu-Mi    
+
 
 # Research 
 
