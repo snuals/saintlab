@@ -18,12 +18,31 @@ Our lab has successfully performed various national study projects for the past 
 
 # People  
 ## Faculty  
+![성정준](/images/성정준.jpg)
 
 ## Trainee & Staff 
 
 ## Alumni 
 
 # Research 
+
+Clinical Research
+
+The clinical research of this lab is based on the medical examination and treatment of Seoul National University Hospital (SNUH), a national hospital with longest history and tradition in Korea. All professors in the lab holding offices as neurology professors at SNUH and Seoul Metropolitan Government Boramae Medical Center run by SNUH are treating patients with various neuromuscular diseases. In particular, ALS clinic has been famous as a specialized clinic, and provides clinical examples to other medical institutions.
+
+ The number of both outpatients and inpatients treated in the neurology department at SNUH annually is greatest in Korea, and we are proud of playing a pivotal role in the treatment of serious, intractable and degenerative patients as a national tertiary medical center.
+
+ ALS/MND lab annually performs various clinical studies based on these clinical experiences; studies about the characteristics of Korean patients have been conducted several times, and studies about the genotype-phenotype correlation as well as studies related to prognostic indicators of diseases have been conducted as well. Recently, an article based on the study using MUNE and MUNIX, electrophysiological testing related to motor unit estimation, has been published.
+
+ Particularly, a clinical study in the hospital has been carried out annually through the clinical trials center at SNUH with the best facilities, along with the participation in international clinical trials.
+
+As mentioned above, this ALS/MND lab has ability to perform both clinical and basic science trials successfully, and hopes to collaborate and interact with many researchers interested in neuromuscular diseases in the future.
+
+Basic research
+
+Six Ph.D members lead basic research in our lab.  As above mentioned, many basic researches have been conducted focusing on ALS in ALS/MND lab.  ALS is a fatal neurodegenerative condition pathologically characterized by progressive loss of upper and lower motor neurons from the brainstem motor nuclei, anterior horn of the spinal cord, and cerebral cortex. Oxidative injury, misfolded protein aggregates, altered axonal transport, impaired energy and calcium metabolism, excess of glutamate activity, malfunctioning mitochondria, and dysregulation of autophagy have all been implicated in motor neuron death in ALS; nonetheless, the pathogenic mechanism of and satisfactory treatment options for ALS remain unclear.
+
+With advance in molecular biology, many researches have been conducted focusing on mutations in various genes such as Cu/Zn superoxide dismutase 1 (SOD1), TAF15, EWSR1, FUS, and TDP-43 in ALS patients. In addition, the possibility of ALS pathomechanism of these mutations was widely proposed in many reports. So our research goals are pursuing how these diverse mutated genes lead to motor neuron cell death and unravelling specific molecular or cellular mechanism of these process. Our previous study suggested possible cellular mechanism of TDP-43 gene that causes neuronal cell death. In this process, phosphomimetic mutant TDP-43 (S409/410E) which induces Drosha instability and cytotoxicity in Neuro 2A cells.  Like TDP-43, abnormal aggregation of SOD1 is also compromised to neuronal viability. Using SOD1 transgenic mouse model and cell culture technique, we evaluated the role of aggregated SOD1 proteins in vitro and in vivo model. And our previous study revealed that intracellular propagation of misfolding of green fluorescent protein(GFP) was possible mediators of toxic process in wild type or mutant type SOD1 mice, and this process might lead to initiate mislocalization and aggregation of the protein. Based on our previous studies, now we’re extending our experience to explore pathogenetic mechanism of miRNAs in ALS.  We hope to make pivotal contribution to reveal the molecular pathomechanisms in ALS someday.
 
 # Publications
 
